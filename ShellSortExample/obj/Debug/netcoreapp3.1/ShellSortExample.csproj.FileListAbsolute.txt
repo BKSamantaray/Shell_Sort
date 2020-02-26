@@ -1,0 +1,11 @@
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\bin\Debug\netcoreapp3.1\ShellSortExample.exe
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\bin\Debug\netcoreapp3.1\ShellSortExample.deps.json
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\bin\Debug\netcoreapp3.1\ShellSortExample.runtimeconfig.json
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\bin\Debug\netcoreapp3.1\ShellSortExample.runtimeconfig.dev.json
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\bin\Debug\netcoreapp3.1\ShellSortExample.dll
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\bin\Debug\netcoreapp3.1\ShellSortExample.pdb
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\obj\Debug\netcoreapp3.1\ShellSortExample.csprojAssemblyReference.cache
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\obj\Debug\netcoreapp3.1\ShellSortExample.AssemblyInfoInputs.cache
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\obj\Debug\netcoreapp3.1\ShellSortExample.AssemblyInfo.cs
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\obj\Debug\netcoreapp3.1\ShellSortExample.dll
+C:\Users\bijaya_kumar_samanta\source\Test\ShellSortExample\ShellSortExample\obj\Debug\netcoreapp3.1\ShellSortExample.pdb
